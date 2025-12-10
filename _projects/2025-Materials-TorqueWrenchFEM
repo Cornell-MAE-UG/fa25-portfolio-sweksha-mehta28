@@ -5,7 +5,7 @@ description: FEM of a Torque Wrench w/ Applied Loading
 technologies: [Fusion 360, ANSYS Mechanical]
 #image: /assets/images/torquewrench.jpg
 ---
-[Download my CV]({{ "/assets/3270.pdf" | relative_url }}) in PDF format.
+[Download my analysis]({{ "/assets/3270.pdf" | relative_url }})
 
 This project involves the complete design and analysis of an instrumented torque wrench rated for 600 in-lbf, integrating multiple mechanical engineering discipçlines including materials selection, stress analysis, fracture mechanics, fatigue design, CAD modeling, and finite element analysis. The torque wrench uses strain gauge technology to transduce applied torque into an electrical signal, with a design goal of maximizing sensitivity (mV/V output) while ensuring structural integrity under cyclic loading.
 
