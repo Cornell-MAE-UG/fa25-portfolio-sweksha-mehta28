@@ -3,7 +3,7 @@ layout: project
 title: MAE 3270 Torque Wrench FEM
 description: FEM of a Torque Wrench w/ Applied Loading 
 technologies: [Fusion 360, ANSYS Mechanical]
-#image: /assets/images/torquewrench.jpg
+image: /assets/images/torquewrench.jpg
 ---
 [Download my analysis]({{ "/assets/3270.pdf" | relative_url }})
 
