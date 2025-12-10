@@ -13,7 +13,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Sweksha Mehta
 description              : Sweksha Mehta - Projects and CV 
-baseurl                  : "fa25-portfolio-sweksha-mehta28" # Set this to your repo name 
+baseurl                  : "" # Set this to your repo name 
+#fa25-portfolio-sweksha-mehta28
 
 # Theme and Style
 theme: jekyll-theme-minimal
