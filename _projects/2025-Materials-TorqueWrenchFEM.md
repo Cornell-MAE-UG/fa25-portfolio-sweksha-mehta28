@@ -15,4 +15,3 @@ The final design was created in Autodesk Fusion 360 and imported into ANSYS Mech
 
 
 ![Photo of torque wrench]({{ "/assets/images/torquewrench.jpg" | relative_url }}){: .inline-image-l}
-
