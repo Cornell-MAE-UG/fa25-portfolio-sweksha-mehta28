@@ -14,4 +14,3 @@ The design process began with analytical hand calculations using beam theory to 
 The final design was created in Autodesk Fusion 360 and imported into ANSYS Mechanical for finite element validation. FEM results confirmed a maximum stress of 52.1 ksi, load point deflection of 0.698 inches, and strain of 1869 microstrain at the gauge location, yielding a sensitivity of 1.86 mV/V using a half-bridge Wheatstone configuration with CEA-06-125UNA-350 strain gauges. This project demonstrates the complete engineering design cycle from analytical calculations through computational validation, showcasing proficiency in modern CAD/FEM tools and fundamental mechanical design principles.
 
 
-![Photo of torque wrench]({{ "/assets/images/torquewrench.jpg" | relative_url }}){: .inline-image-l}

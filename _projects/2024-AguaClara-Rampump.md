@@ -16,4 +16,4 @@ One of the main aspects of the pump design I focused on was integrating a second
 
 Overall, this project gave me hands-on experience in fluid mechanics, iterative prototyping, and technical documentation, while reinforcing the importance of connecting experimental data, simulation, and careful record-keeping. The experience also strengthened my ability to think critically about system performance, anticipate design challenges, and communicate technical findings clearly to both peers and mentors. A picture of the mock-up of the dual support spring system is shown below:
 
-![Photo of Ram Pump]({{ "/assets/images/agua-clara.jpg" | relative_url }}){: .inline-image-l}
+

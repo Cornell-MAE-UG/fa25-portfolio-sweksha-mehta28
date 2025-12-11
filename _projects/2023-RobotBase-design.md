@@ -13,4 +13,3 @@ Throughout the project, I iteratively tested design decisions such as structural
 
 The project strengthened my confidence with Fusion 360, deepened my understanding of robotics design fundamentals, and reinforced the importance of thinking ahead about manufacturability and assembly. Below is a rendering of the robot base highlighting its modular structure and component layout:
 
-![Mechanum robot base]({{ "/assets/images/robot-base.jpg" | relative_url }}){: .inline-image-l}
